@@ -3,7 +3,7 @@ exercicio README
 ## Aumento da Fonte
 ## **Negrito**   
 > Text that is a quote
-> Cores `#0969DA` <br/>
+> ` <br/>
 > Teste de Link [mapgeodrone](https://www.mapgeodrone.com/) <br/>
 
 
