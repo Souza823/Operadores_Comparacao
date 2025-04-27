@@ -1,7 +1,6 @@
 # Modelagem 3D Caminhamento Elétrico  
 > Text that is a quote
-> ` <br/>
-> Teste de Link [mapgeodrone](https://www.mapgeodrone.com/) <br/>
+> 
 
 
 
